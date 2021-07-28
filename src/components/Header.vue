@@ -8,7 +8,7 @@
                         <i class=" fa fa-envelope"></i> hello.shayna@gmail.com
                     </div>
                     <div class="phone-service">
-                        <i class=" fa fa-phone"></i> +628 22081996
+                        <i class=" fa fa-phone"></i> +628 22081996099
                     </div>
                 </div>
             </div>
